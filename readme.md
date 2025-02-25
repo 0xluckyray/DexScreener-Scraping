@@ -22,12 +22,12 @@ And then, this bot will get top traders for this pair and track activities of th
    
    Create a `.env` file in the root directory:
    ```env
-        SCRAPERAPI_API_KEY=""
-        BITQUERY_API_KEY=""
-        CIELO_API_KEY=""
-        ETHERSCAN_API_KEY=""
-        MONGODB_URL=""
-        TELEGRAM_BOT_TOKEN=""
+     SCRAPERAPI_API_KEY=""
+     BITQUERY_API_KEY=""
+     CIELO_API_KEY=""
+     ETHERSCAN_API_KEY=""
+     MONGODB_URL=""
+     TELEGRAM_BOT_TOKEN=""
    ```
 
 3. **Build and Run**
